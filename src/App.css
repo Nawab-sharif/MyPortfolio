@@ -1,0 +1,52 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.navbar {
+  /* border: 2px solid red; */
+}
+
+.home {
+  /* background: linear-gradient(to right, #a0e9d089, #77bedac8); */
+  /* background: linear-gradient(to right, rgb(181, 186, 183), rgb(131, 191, 216)); */
+  /* border: 2px solid orange; */
+
+  .left {
+    /* border: 2px solid green; */
+  }
+
+  .right {
+    /* border: 2px solid blue; */
+  }
+}
+
+.skills {
+  /* border: 2px solid skyblue; */
+
+  .left {
+    /* border: 2px solid red; */
+  }
+
+  .right {
+    /* border: 2px solid green; */
+  }
+}
+
+
+.project {
+  /* border: 2px solid blue; */
+}
+
+.resume {
+  /* border: 2px solid orange; */
+}
+
+.contact {
+  /* border: 2px solid green; */
+}
+
+.footer {
+  /* border: 2px solid red; */
+}
